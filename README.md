@@ -1,2 +1,2 @@
-# comecandos saporra
- Primeiro repositório do curso git 
+# começando git e github
+ Fé
